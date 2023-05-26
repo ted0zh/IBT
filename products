@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+    <title>АвтоРесийвърБГ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>АвтоРесийвърБГ</h1>
+    <nav>
+      <ul>
+        <li><a href="home.html">Заглавна страница</a></li>
+        
+      </ul>
+    </nav>
+  </header>
+  
+    <h2>Aвто ресийвъри</h2>
+	    <ul class="items">
+      <p>
+        <a href="item1.html">
+          <img src="KENWOOD KMM-BT209 BLUETOOTH.jpg" alt="Item 1">
+		  </a>
+          <h3>KENWOOD KMM-BT209 BLUETOOTH</h3>
+          <p>4x55W</p>
+          <p class="price">189.00лв</p>
+        
+      </p>
+      <p>
+        <a href="item2.html">
+          <img src="PIONEER MVH-S320BT BLUETOOTH.jpg" alt="Item 2">
+		  </a>
+          <h3>PIONEER MVH-S320BT BLUETOOTH</h3>
+          <p>4x55W</p>
+          <p class="price">189.00лв</p>
+        
+      </p>
+      <p>
+        <a href="item3.html">
+          <img src="JVC KW-M560BT BLUETOOTH.jpg" alt="Item 3">
+		  </a>
+          <h3>JVC KW-M560BT BLUETOOTH</h3>
+          <p>4x55W</p>
+          <p class="price">210.00лв</p>
+        
+      </p>
+      <p>
+        <a href="item4.html">
+          <img src="SONY XAV-AX5650 BLUETOOTH.jpg" alt="Item 4">
+		  </a>
+          <h3>SONY XAV-AX5650 BLUETOOTH</h3>
+          <p>4x55W,двоен дин</p>
+		  <p class="price">450.00лв</p>
+        
+      </p>
+      <p>
+        <a href="item5.html">
+          <img src="PIONEER DMH-G220BT BLUETOOTH.jpg" alt="Item 5">
+		  </a>
+          <h3>PIONEER DMH-G220BT BLUETOOTH</h3>
+          <p>4x55W,двоен дин</p>
+          <p class="price">1000.00лв</p>
+        
+      </p>
+    </ul>
+  
+</body>
+</html>
