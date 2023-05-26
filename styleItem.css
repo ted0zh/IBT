@@ -1,0 +1,62 @@
+/* Body and Background */
+body {
+  background-color: #FFEEEE;
+}
+
+/* Header */
+header {
+   color: #000000;
+}
+
+/* Links */
+nav a {
+  color: #FF0000;
+}
+
+/* Product Details */
+.product-details {
+  color: #FF0000;
+}
+
+/* Price */
+.price {
+  color: #FF0000;
+}
+
+/* Purchase Form */
+#purchase-form label {
+  color: #FF0000;
+}
+
+/* Add to Cart Button */
+#purchase-form button {
+  background-color: #FF0000;
+  color: #FFFFFF;
+}
+
+/* Reviews */
+.reviews {
+  color: #FF0000;
+}
+
+/* Review Text */
+.review-text {
+  color: #FF0000;
+}
+
+/* Review Form */
+#review-form label {
+  color: #FF0000;
+}
+
+/* Submit Review Button */
+#review-form button {
+  background-color: #FF0000;
+  color: #FFFFFF;
+}
+
+img{
+  max-width: 20%;
+  height: auto;
+}
+
